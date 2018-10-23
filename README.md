@@ -1,4 +1,4 @@
-
+[![Build Status](https://travis-ci.org/Jenami/Prueba.svg?branch=master)](https://travis-ci.org/Jenami/Prueba)
 
 ### EDUCARDS
 
