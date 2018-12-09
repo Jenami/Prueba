@@ -16,6 +16,5 @@ La app contará con un sistema de puntuación y ranking entre los diferentes jug
 
 - Tablero de trello : https://trello.com/b/EW7D0skF/educards
 
-<p align="left">
-  <img src="./imagen/grafico.jpeg)" />
-</p>
+
+- [Alt text](./imagen/grafico.jpeg)
