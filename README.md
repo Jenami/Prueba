@@ -18,5 +18,4 @@ La app contará con un sistema de puntuación y ranking entre los diferentes jug
 
 - Tablero de trello : https://trello.com/b/EW7D0skF/educards
 
--Grafico
-![Grafico Velocidad] (imagen/grafico.jpeg)
+- ![Grafico Velocidad] (imagen/grafico.jpeg)
