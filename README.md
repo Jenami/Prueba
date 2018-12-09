@@ -14,8 +14,8 @@ La app contará con un sistema de puntuación y ranking entre los diferentes jug
 
 - Sprints y Retrospectivas: https://docs.google.com/document/d/143kbgxZSo0JC5HBE386LEu2sOOBahkfcE5V7cBRzKhY/edit?usp=sharing
 
-- Casos de Uso: 
-
 - Tablero de trello : https://trello.com/b/EW7D0skF/educards
 
-- ![Grafico Velocidad] (https://github.com/Jenami/Prueba/blob/master/imagen/grafico.jpeg)
+<p align="left">
+  <img src="imagen/grafico.jpeg)" />
+</p>
