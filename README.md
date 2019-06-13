@@ -1,6 +1,6 @@
 
 
-### EDUCARDS
+### EDUCARDS prueba
 
 Trabajo práctico grupal de la materia Elementos de Ingeniería de Software.
 
